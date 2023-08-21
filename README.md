@@ -7,6 +7,16 @@ This repository contains Python code for plotting historical petroleum productio
 - Data customization: Adjust plot properties, such as colors, fonts, and titles, to customize the visualization.
 - Easy to use: The code is easy to use and does not require any special knowledge of Python.
 
+## Note on Interactive Plot
+Please note that the interactive plot may not be visible when viewing the Jupyter Notebook file directly on GitHub. However, an alternative HTML file (`Petprod Philippines.html`) is included in this repository, showcasing the interactive plot and without running the Jupyter Notebook.
+
+To view the interactive plot, follow these steps:
+
+1. Download or clone the repository to your local machine.
+2. Open the Jupyter Notebook file (`Petprod Philippines.ipynb`) using Jupyter Notebook, Jupyter Lab or Visual Studio Code.
+3. Run the code in the notebook to generate the interactive plot.
+4. The generated plot will be displayed within the Jupyter Notebook interface.
+
 ## Data Credits
 The data set for this repository was sourced from the Department of Energy in the Philippines, available on their website: https://www.doe.gov.ph/energy-information-resources?q=energy-resources/petroleum-statistics. Accessed August 21, 2023.
 
