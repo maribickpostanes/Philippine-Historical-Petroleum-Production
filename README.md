@@ -3,3 +3,9 @@ This repository contains Python code for plotting historical petroleum productio
 
 # Contributing
 Contributions to this open-source project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+![1-oilprod](https://github.com/maribickpostanes/Philippine-Historical-Petroleum-Production/assets/127098659/c693e492-004e-4a4f-a9a7-890d883531c3)
+
+![1-gasprod](https://github.com/maribickpostanes/Philippine-Historical-Petroleum-Production/assets/127098659/a403a170-eb47-4ad6-b0fb-bb95ae4c2ce0)
+
+![1-condensateprod](https://github.com/maribickpostanes/Philippine-Historical-Petroleum-Production/assets/127098659/09f62cab-e530-470d-b06c-4aa042991cba)
