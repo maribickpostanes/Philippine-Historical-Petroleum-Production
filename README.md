@@ -3,7 +3,7 @@ This repository contains Python code for plotting historical petroleum productio
 
 ## Features
 - Interactive visualization: Explore the historical petroleum production data plot with zooming, panning, and hovering capabilities.
-- Data visualization: Display different aspects of the petroleum production data, such as the total production, the production of different types of petroleum, or the production by oilfield.
+- Data visualization: Display different aspects of the petroleum production data, such as the total production, the production of different types of petroleum, or the production by oilfield, gas field and condensate field.
 - Data customization: Adjust plot properties, such as colors, fonts, and titles, to customize the visualization.
 - Easy to use: The code is easy to use and does not require any special knowledge of Python.
 
