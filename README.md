@@ -13,7 +13,7 @@ The data set for this repository was sourced from the Department of Energy in th
 ## Contributing
 Contributions to this open-source project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-I hope that these plots will be a valuable resource for anyone who is interested in understanding the petroleum industry in the Philippines.
+Thank you so much for visiting and taking the time to read this GitHub repository. I hope you found it informative and learned something new. Your support and interest are sincerely appreciated. I hope that these plots will be a valuable resource for anyone who is interested in understanding the petroleum industry in the Philippines.
 
 ![1-oilprod](https://github.com/maribickpostanes/Philippine-Historical-Petroleum-Production/assets/127098659/c693e492-004e-4a4f-a9a7-890d883531c3)
 
