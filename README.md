@@ -1,4 +1,4 @@
-# Philippine-Historical-Petroleum-Production
+# Philippine Historical Petroleum Production Data Plotting using Python
 This repository contains Python code for plotting historical petroleum production data in the Philippines from 1979 to 2021. The code uses the Plotly library to create interactive plots that visualize the data over time. This can be helpful for understanding how petroleum production has changed over the years, and for identifying potential problems or opportunities.
 
 ## Features
@@ -10,13 +10,8 @@ This repository contains Python code for plotting historical petroleum productio
 ## Note on Interactive Plot
 The interactive plot may not be visible when viewing the Jupyter Notebook file directly on GitHub. An alternative HTML file (`Petprod Philippines.html`) is included in this repository, which showcases the interactive plot without the need to run the Jupyter Notebook.
 
-## Data Credits
+## Data Credit and Source
 The data set for this repository was sourced from the Department of Energy in the Philippines, available on their website: https://www.doe.gov.ph/energy-information-resources?q=energy-resources/petroleum-statistics. Accessed August 21, 2023.
-
-## Contributing
-Contributions to this open-source project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-Thank you so much for visiting and taking the time to read this GitHub repository. I hope you found it informative and learned something new. Your support and interest are sincerely appreciated. I hope that these plots will be a valuable resource for anyone who is interested in understanding the petroleum industry in the Philippines.
 
 ![1-oilprod](https://github.com/maribickpostanes/Philippine-Historical-Petroleum-Production/assets/127098659/c693e492-004e-4a4f-a9a7-890d883531c3)
 
